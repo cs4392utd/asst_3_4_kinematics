@@ -21,7 +21,7 @@ brew install cmake
 
 To build your code for this assignment:
 ```
-$ cd asst5_forward_kinematics && mkdir build && cd build
+$ cd asst_3_4_kinematics && mkdir build && cd build
 $ cmake ..
 $ make
 ```
