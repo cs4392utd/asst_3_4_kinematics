@@ -1,9 +1,9 @@
-# UTD CS6323 Compute Animation and Gaming
+# UTD CS4392 Compute Animation and Gaming
 
 ## Getting started
-We will be distributing assignments with git. You can find the repository for this assignment at https://github.com/CS6323utd/asst5_forward_kinematics. If you are unfamiliar with git, here is what you need to do to get the starter code:
+We will be distributing assignments with git. You can find the repository for this assignment at https://github.com/CS4392utd/asst5_forward_kinematics. If you are unfamiliar with git, here is what you need to do to get the starter code:
 ```
-$ git clone https://github.com/CS6323utd/asst5_forward_kinematics.git
+$ git clone https://github.com/CS4392utd/asst5_forward_kinematics.git
 ```
 This will create an asst5_forward_kinematics folder with all the source files.
 
