@@ -37,9 +37,6 @@ To run your executable file:
 $ ./asst
 ```
 
-### What You Need to Do
-Please refer to the [PDF]() about what you need to do for this assignment.
-
 
 --- 
 
